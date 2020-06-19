@@ -36,5 +36,5 @@ For configuration can be modified in training_cmd.sh or train.py
 Then, training outputs are saved in `classification/log`.
 ```bash
 cd classification
-sh sh training_cmd.sh 
+sh training_cmd.sh 
 ```
