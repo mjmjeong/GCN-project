@@ -1,0 +1,56 @@
+Namespace(batch_size=32, debug=False, decay_rate=0.8, decay_step=200000, eval_rotation=False, gpu=0, learning_rate=0.001, log_dir='spec_cp_avg_start', max_epoch=251, model='pointnet2_cls_ssg_spec_cp', momentum=0.9, normal=True, num_point=2048, optimizer='adam', subdir='')
+Namespace(batch_size=32, debug=False, decay_rate=0.8, decay_step=200000, eval_rotation=False, gpu=0, learning_rate=0.001, log_dir='spec_cp_avg_start', max_epoch=251, model='pointnet2_cls_ssg_spec_cp', momentum=0.9, normal=True, num_point=2048, optimizer='adam', subdir='')
+pid: 30763
+**** EPOCH 000 ****
+2020-06-19 01:10:07.290494
+ -- 050 / 307 --
+mean loss: 3.392831
+accuracy: 0.178125
+ -- 100 / 307 --
+mean loss: 2.589923
+accuracy: 0.351875
+ -- 150 / 307 --
+mean loss: 2.202576
+accuracy: 0.401250
+ -- 200 / 307 --
+mean loss: 1.998501
+accuracy: 0.456250
+ -- 250 / 307 --
+mean loss: 1.796897
+accuracy: 0.496875
+ -- 300 / 307 --
+mean loss: 1.730937
+accuracy: 0.533750
+2020-06-19 01:34:25.871716
+---- EPOCH 000 EVALUATION ----
+eval mean loss: 1.437219
+eval accuracy: 0.582658
+eval avg class acc: 0.479744
+Model saved in file: /home/goodbye61/LocalSpecGCN/classification/log/spec_cp_avg_start/model.ckpt
+**** EPOCH 001 ****
+2020-06-19 01:40:23.179975
+ -- 050 / 307 --
+mean loss: 1.582569
+accuracy: 0.545625
+ -- 100 / 307 --
+mean loss: 1.522518
+accuracy: 0.553125
+ -- 150 / 307 --
+mean loss: 1.457786
+accuracy: 0.582500
+ -- 200 / 307 --
+mean loss: 1.434019
+accuracy: 0.596875
+ -- 250 / 307 --
+mean loss: 1.330139
+accuracy: 0.607500
+ -- 300 / 307 --
+mean loss: 1.330867
+accuracy: 0.609375
+2020-06-19 01:51:11.488524
+---- EPOCH 001 EVALUATION ----
+eval mean loss: 0.979599
+eval accuracy: 0.704619
+eval avg class acc: 0.615221
+**** EPOCH 002 ****
+2020-06-19 01:53:45.848169

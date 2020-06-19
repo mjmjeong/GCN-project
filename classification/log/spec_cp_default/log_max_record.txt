@@ -1,0 +1,54 @@
+**** EPOCH 000 ****
+eval accuracy: 0.570097
+Model saved in file: /home/goodbye61/LocalSpecGCN/classification/log/spec_cp_default/model_max_record.ckpt
+**** EPOCH 001 ****
+eval accuracy: 0.692058
+Model saved in file: /home/goodbye61/LocalSpecGCN/classification/log/spec_cp_default/model_max_record.ckpt
+**** EPOCH 002 ****
+eval accuracy: 0.740276
+Model saved in file: /home/goodbye61/LocalSpecGCN/classification/log/spec_cp_default/model_max_record.ckpt
+**** EPOCH 003 ****
+eval accuracy: 0.777553
+Model saved in file: /home/goodbye61/LocalSpecGCN/classification/log/spec_cp_default/model_max_record.ckpt
+**** EPOCH 004 ****
+eval accuracy: 0.807131
+Model saved in file: /home/goodbye61/LocalSpecGCN/classification/log/spec_cp_default/model_max_record.ckpt
+**** EPOCH 005 ****
+eval accuracy: 0.823339
+Model saved in file: /home/goodbye61/LocalSpecGCN/classification/log/spec_cp_default/model_max_record.ckpt
+**** EPOCH 006 ****
+eval accuracy: 0.824959
+Model saved in file: /home/goodbye61/LocalSpecGCN/classification/log/spec_cp_default/model_max_record.ckpt
+**** EPOCH 007 ****
+eval accuracy: 0.828606
+Model saved in file: /home/goodbye61/LocalSpecGCN/classification/log/spec_cp_default/model_max_record.ckpt
+**** EPOCH 008 ****
+eval accuracy: 0.844408
+Model saved in file: /home/goodbye61/LocalSpecGCN/classification/log/spec_cp_default/model_max_record.ckpt
+**** EPOCH 009 ****
+eval accuracy: 0.854538
+Model saved in file: /home/goodbye61/LocalSpecGCN/classification/log/spec_cp_default/model_max_record.ckpt
+**** EPOCH 014 ****
+eval accuracy: 0.863857
+Model saved in file: /home/goodbye61/LocalSpecGCN/classification/log/spec_cp_default/model_max_record.ckpt
+**** EPOCH 019 ****
+eval accuracy: 0.872771
+Model saved in file: /home/goodbye61/LocalSpecGCN/classification/log/spec_cp_default/model_max_record.ckpt
+**** EPOCH 020 ****
+eval accuracy: 0.875203
+Model saved in file: /home/goodbye61/LocalSpecGCN/classification/log/spec_cp_default/model_max_record.ckpt
+**** EPOCH 021 ****
+eval accuracy: 0.879254
+Model saved in file: /home/goodbye61/LocalSpecGCN/classification/log/spec_cp_default/model_max_record.ckpt
+**** EPOCH 022 ****
+eval accuracy: 0.885737
+Model saved in file: /home/goodbye61/LocalSpecGCN/classification/log/spec_cp_default/model_max_record.ckpt
+**** EPOCH 023 ****
+eval accuracy: 0.889789
+Model saved in file: /home/goodbye61/LocalSpecGCN/classification/log/spec_cp_default/model_max_record.ckpt
+**** EPOCH 028 ****
+eval accuracy: 0.890600
+Model saved in file: /home/goodbye61/LocalSpecGCN/classification/log/spec_cp_default/model_max_record.ckpt
+**** EPOCH 031 ****
+eval accuracy: 0.896677
+Model saved in file: /home/goodbye61/LocalSpecGCN/classification/log/spec_cp_default/model_max_record.ckpt

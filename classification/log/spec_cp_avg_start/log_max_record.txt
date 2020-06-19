@@ -1,0 +1,6 @@
+**** EPOCH 000 ****
+eval accuracy: 0.582658
+Model saved in file: /home/goodbye61/LocalSpecGCN/classification/log/spec_cp_avg_start/model_max_record.ckpt
+**** EPOCH 001 ****
+eval accuracy: 0.704619
+Model saved in file: /home/goodbye61/LocalSpecGCN/classification/log/spec_cp_avg_start/model_max_record.ckpt
