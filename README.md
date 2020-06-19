@@ -13,14 +13,20 @@ unzip modelent40_normal_resampled.zip
 
 #### 3. Setting for tf_opts
 ```bash
-cd 
+cd tf_ops/3d_interpolation
+sh tf_interpolate_complie.sh
+cd ../grouping
+sh tf_grouping_complie.sh
+cd ../sampling_nd
+sh tf_sampling_compile.sh
 ```
 
 #### 4. Training models
 For configuration file located in `src/experiment/options/act_pp/esgn/default.yml`, you can train model with below command.
 Then, training outputs are saved in `results/act_pp/esgn/default`.
 ```bash
-bash scripts/train_model.sh default esgn act_pp 0 4 0
+cd classification
+sh sh training_cmd.sh 
 ```
 
 * Using **anaconda** environment
