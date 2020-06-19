@@ -4,6 +4,12 @@ This is for gcn project (2020SS)
 #### 1. Dependencies
 This repository is implemented based on [Tensorflow](https://www.tensorflow.org/) with Anaconda.</br>
 
+Enviroments: 
+CUDA: 10.0
+Tensorflow: 1.13.0
+Python: 3.6.9
+Requirements: 
+
 #### 2. Dataset Download
 Please refer to the [Dataset Download](./data/README.md).
 ```bash
